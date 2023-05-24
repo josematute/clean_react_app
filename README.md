@@ -2,7 +2,7 @@
 
 ## Description
 
-`clean_react_app` is a Python script designed to create a new React application and remove some default files. It then replaces these default files with predefined files from a "boilerplate_files" directory. This script is helpful if you frequently create new React apps and would like to start with a different base other than the default `create-react-app` template. Once the React app is created, you can move it out of this directory to wherever you would like.
+`clean_react_app` is a Python script designed to create a new React application and remove some default files. It then replaces these default files with predefined files from the "boilerplate_files" directory. These files are only the required ones without useless comments and components: `App.js`, `index.js`, `index.html` and `README.md`. This script is helpful if you frequently create new React apps and would like to start with a different base other than the default `create-react-app` template. Once the React app is created, you can move it out of this directory to wherever you would like.
 
 ## Showcase
 
